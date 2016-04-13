@@ -35,7 +35,7 @@
     "doc": "./docs"
   },
   "dependencies": {
-    "appium-android-driver": "^1.8.0",
+    "appium-android-driver": "https://github.com/dlvoy/appium-android-driver.git#v1.8.1-fixed",
     "appium-base-driver": "^1.4.1",
     "appium-express": "^1.2.2",
     "appium-fake-driver": "^0.1.9",
